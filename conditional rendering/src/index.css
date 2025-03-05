@@ -1,0 +1,19 @@
+.welcome{
+  padding: 10px 20px;
+  font-size: 3rem;
+  background-color: rgb(186, 247, 95);
+  margin: 5px;
+  font-weight: bolder;
+  border: 3px solid black;
+box-shadow: 0 0 10px 5px rgba(0,0,0,0.5)
+}
+
+.logout{
+  padding: 10px  20px;
+  font-size: 3rem;
+  font-weight: bolder;
+  background-color: rgb(253, 34, 34);
+  color: white;
+  border: 3px solid black;
+  box-shadow: 0 0 10px 5px rgba(0,0,0,0.5)
+}
